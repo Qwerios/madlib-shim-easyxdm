@@ -2,7 +2,7 @@
     "name": "madlib-shim-easyxdm",
     "description": "Packaged version of Øyvind Sean Kinsey easyXDM because it isn't available on npmjs. All credit goes to the original author. MIT license included.",
     "main": "lib/easyXDM.js",
-    "version": "2.4.18-25",
+    "version": "2.4.19-3",
     "author": {
         "name": "Mark Doeswijk",
         "email": "mdoeswijk@gmail.com",
