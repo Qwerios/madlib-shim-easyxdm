@@ -3,19 +3,21 @@
     "description": "Packaged version of Øyvind Sean Kinsey easyXDM because it isn't available on npmjs. All credit goes to the original author. MIT license included.",
     "main": "lib/easyXDM.js",
     "version": "2.4.18-25",
-    "author":
-    {
+    "author": {
         "name": "Mark Doeswijk",
-        "email": "mark.doeswijk@marviq.com",
-        "url": "https://github.com/Marviq"
+        "email": "mdoeswijk@gmail.com",
+        "url": "https://github.com/Qwerios"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Qwerios/madlib-shim-easyxdm.git"
     },
     "scripts":
     {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Warning: no test specified\" && exit 0"
     },
     "devDependencies":
-    {
-    },
+    {},
     "dependencies":
     {},
     "licenses": [
