@@ -1,4 +1,8 @@
 # madlib-shim-easyxdm
+[![Build Status](https://travis-ci.org/Qwerios/madlib-shim-easyxdm.svg?branch=master)](https://travis-ci.org/Qwerios/madlib-shim-easyxdm) [![NPM version](https://badge.fury.io/js/madlib-shim-easyxdm.png)](http://badge.fury.io/js/madlib-shim-easyxdm)
+
+[![Npm Downloads](https://nodei.co/npm/madlib-shim-easyxdm.png?downloads=true&stars=true)](https://nodei.co/npm/madlib-shim-easyxdm.png?downloads=true&stars=true)
+
 Packaged version of Øyvind Sean Kinsey easyXDM because it isn't available on npmjs. All credit goes to the original author.
 
 
