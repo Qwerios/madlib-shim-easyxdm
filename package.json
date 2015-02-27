@@ -1,27 +1,25 @@
 {
-    "name": "madlib-shim-easyxdm",
-    "description": "Packaged version of Øyvind Sean Kinsey easyXDM because it isn't available on npmjs. All credit goes to the original author. MIT license included.",
-    "main": "lib/easyXDM.js",
-    "version": "2.4.19-3",
-    "author": {
-        "name": "Mark Doeswijk",
-        "email": "mdoeswijk@gmail.com",
-        "url": "https://github.com/Qwerios"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Qwerios/madlib-shim-easyxdm.git"
-    },
-    "scripts":
+  "name": "madlib-shim-easyxdm",
+  "description": "Packaged version of Øyvind Sean Kinsey easyXDM because it isn't available on npmjs. All credit goes to the original author. MIT license included.",
+  "main": "lib/easyXDM.js",
+  "version": "2.4.19",
+  "author": {
+    "name": "Mark Doeswijk",
+    "email": "mdoeswijk@gmail.com",
+    "url": "https://github.com/Qwerios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qwerios/madlib-shim-easyxdm.git"
+  },
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "licenses": [
     {
-        "test": "echo \"Warning: no test specified\" && exit 0"
-    },
-    "devDependencies":
-    {},
-    "dependencies":
-    {},
-    "licenses": [
-    {
-        "type": "MIT"
-    } ]
+      "type": "MIT"
+    }
+  ]
 }
